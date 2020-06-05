@@ -1,0 +1,40 @@
+
+body {
+	height: 2500px;
+}
+
+.calc-wrap {
+ border-radius: 10px;
+  margin: auto;
+  width: 15%;
+  border: 3px solid black;
+  padding: 10px;
+  margin-top: 40px;
+  background: green;
+}
+
+.area {
+
+width: 97%;
+height: 18%;	
+}
+.butnField {
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+	margin-top: 5px;
+	
+}
+.btn {
+	border: 1px  solid black;
+	margin: 3px;
+	padding: 2px;
+	text-align: center;
+	background: white;
+	border-radius: 3px;
+
+}
+
+input {
+	cursor: pointer;
+	margin: 1px;
+}
